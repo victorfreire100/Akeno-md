@@ -23,7 +23,7 @@ Akeno Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 
 
 ## `Deploy on Heroku`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Guru322/Akeno-md/)
 
 
 ## ` BUILDPACKS`
