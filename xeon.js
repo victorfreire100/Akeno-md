@@ -190,14 +190,17 @@ let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
 ]
 let buttonMessage = {
-    document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
+	document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
     mimetype: docs,
-    jpegThumbnail:XeonWlcm,
-    mentions: [num],
     fileName: `${metadata.subject}`,
-    fileLength: 69,
+    fileLength: 99999999999999,
     caption: xeonbody,
-footer: `${botname}`,
+    footer: `${botname}`,
+    buttons: buttons,
+    headerType: 4,
+    body: `Bye! my friend, take care.`,
+    mediaType:2,
+    thumbnail: XeonWlcm,
     }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 } else if (anu.action == 'remove') {
@@ -226,12 +229,16 @@ let buttons = [
 let buttonMessage = {
     document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
     mimetype: docs,
-    jpegThumbnail:XeonLft,
-    mentions: [num],
     fileName: `${metadata.subject}`,
-    fileLength: 69,
+    fileLength: 99999999999999,
     caption: xeonbody,
     footer: `${botname}`,
+    buttons: buttons,
+    headerType: 4,
+    body: `Bye! my friend, take care.`,
+    mediaType:2,
+    thumbnail: XeonLft,
+
 }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 }
