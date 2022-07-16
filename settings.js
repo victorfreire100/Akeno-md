@@ -93,7 +93,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'Here is your material darling ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'make me admin darling!',
     owner: 'This Feature Is Only For my master Guru sama!',
