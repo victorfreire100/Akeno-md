@@ -189,6 +189,16 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 let buttons = [
 {buttonId: `wkwwk`, buttonText: {displayText: 'Welcome 💐'}, type: 1}
 ]
+let buttonMessage = {
+    document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
+    mimetype: docs,
+    jpegThumbnail:XeonWlcm,
+    mentions: [num],
+    fileName: `${metadata.subject}`,
+    fileLength: 69,
+    caption: xeonbody,
+footer: `${botname}`,
+    }
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 } else if (anu.action == 'remove') {
                 	const xeonbuffer = await getBuffer(ppuser)
@@ -213,6 +223,16 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
 let buttons = [
 {buttonId: `wkwkwk`, buttonText: {displayText: 'Sayonara 🥀'}, type: 1}
 ]
+let buttonMessage = {
+    document: fs.readFileSync('./XeonMedia/theme/cheems.xlsx'),
+    mimetype: docs,
+    jpegThumbnail:XeonLft,
+    mentions: [num],
+    fileName: `${metadata.subject}`,
+    fileLength: 69,
+    caption: xeonbody,
+    footer: `${botname}`,
+}
 XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                 }
             }
