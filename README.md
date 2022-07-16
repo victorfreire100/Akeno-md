@@ -15,6 +15,8 @@ Akeno Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 
 # ```Bot Info```
 
+## ```Bot Support Groups```
+- [`1st GC`](https://chat.whatsapp.com/KpDtH4QC2cKH3q9LphFMLA)
 
 ## `Scan QR Code For Session`
 [![Akeno Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Guru322/Akeno-Bot-qr-code?v=1)
