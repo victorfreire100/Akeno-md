@@ -20,7 +20,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': '805a6c3fa9',
 }
 
 
@@ -51,7 +51,6 @@ global.location = "India, Odisha, Cuttack" //ur location
 
 //bot bomdy 
 global.owner = ['917605902011']
-global.ownertag = '917605902011' //ur tag number
 global.botname = 'Akeno Bot MD V4' //ur bot name
 global.linkz = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.instagram.com/lungs__hacker/" //ur website to be displayed
