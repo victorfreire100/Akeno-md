@@ -34,3 +34,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## `Deploy on Heroku````
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+
+
+</details><hr>
+
+## Thanks To
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`DGXeon`](https://github.com/DGXeon)
+* [`AflahXrd`](https://github.com/Guru322)
