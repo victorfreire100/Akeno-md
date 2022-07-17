@@ -198,7 +198,7 @@ let buttonMessage = {
     footer: `${botname}`,
     buttons: buttons,
     headerType: 4,
-    body: `Bye! my friend, take care.`,
+    body: `Don't forget to read group description.`,
     mediaType:2,
     thumbnail: XeonWlcm,
     }
